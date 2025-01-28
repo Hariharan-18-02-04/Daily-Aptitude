@@ -1,2 +1,2 @@
 # Daily-Aptitude
-This is my aptitude tracker and notes
+This repository contains notes.
